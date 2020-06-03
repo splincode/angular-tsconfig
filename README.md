@@ -1,3 +1,7 @@
+# Moved
+
+https://github.com/Angular-RU/angular-ru-sdk/tree/master/packages/tsconfig
+
 # Shareable TypeScript config for Angular projects
 
 <p>
